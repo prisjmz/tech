@@ -1,2 +1,2 @@
-# tech
+# Proyecto final
 practicas tech
